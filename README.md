@@ -1,6 +1,8 @@
-# Yari
+# María soledad corrales garcia 
+ADAS MUSIC 
+SS-001 ASI NOMAS ®️👑
 
-![Testing](https://github.com/mdn/yari/workflows/Testing%20Yari/badge.svg)
+![Testing](https://github.com/mdn/yari/workflows/Testing%sol/badge.mscg)
 ![Prod Build](https://github.com/mdn/yari/workflows/Prod%20Build/badge.svg)
 
 ## Quickstart
